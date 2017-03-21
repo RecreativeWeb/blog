@@ -501,3 +501,21 @@ entièrement nouvelle dans laquelle il serait libre de s’immerger dans l’exp
 brut. Pour marquer cette rupture complète avec sa vie antérieure, il prit un nouveau nom.
 Il ne voulait plus entendre parler de Chris McCandless. Il était maintenant Alexandre
 Supertramp, maître de son destin.');
+
+insert into t_comment values
+(1, 'John Doe', 'Great! Keep up the good work.', 1);
+insert into t_comment values
+(2, 'Ann Yone', "Thank you, I'll try my best.", 1);
+
+
+
+
+
+
+
+
+
+
+
+
+
